@@ -1,53 +1,116 @@
 # Hi, I'm Pradwin N P 👋
 
-I'm an **Integrated MCA student at Rajagiri College of Social Sciences, Kochi**, focusing on software engineering, data analytics, and core computer science fundamentals.
+🎓 **2nd-Year Integrated MCA Student** | Rajagiri College of Social Sciences, Kochi
 
-I enjoy digging into how systems work beneath the surface—whether that means querying relational databases, parsing through messy data to extract clear business insights, writing procedural logic in C, building object-oriented solutions in Java, or designing circuits from fundamental logic gates.
-
----
-
-### 🛠️ Technical Focus & Tooling
-
-* **Languages & Web:** C, Java, Python, HTML
-* **Databases:** SQL, PostgreSQL (psql)
-* **Core Concepts:** Relational Database Management (RDBMS), Object-Oriented Programming (OOP), Data Structures & Algorithms, Procedural Programming, Digital Logic Design[cite: 3, 4]
-* **Data Analytics & Statistics:** Data cleaning, missing value imputation, outlier detection (IQR), scaling, exploratory data analysis[cite: 1, 2]
-* **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit[cite: 1]
-* **Environments & IDEs:** Jupyter Notebook, Google Colab, Anaconda Navigator, VS Code, Dev-C++, IDLE[cite: 1]
-* **Version Control:** Git, GitHub
+I'm interested in **software development, data analytics, databases, and computer science fundamentals**.  
+Currently strengthening my skills in **Java, Python, C, SQL, OOP, DSA, and data analytics**.
 
 ---
 
-### 💻 Projects & Practical Work
+## 🛠️ Technical Skills
 
-#### 📊 Zomato Market & Restaurant Analytics (Python)
-An end-to-end data analytics study analyzing 20,000+ restaurant records to understand market dynamics and customer preferences[cite: 1, 2].
-* Implemented structured data preprocessing: city-wise imputation for missing ratings, IQR-based outlier filtering on cost metrics, and MinMax feature normalization[cite: 1, 2].
-* Analyzed rating patterns, establishing that aggregate ratings follow a uniform rather than a normal distribution ($\mu \approx 3.20$), showing that vote counts and online delivery availability alone do not dictate ratings[cite: 1, 2].
-* Developed comparative visualization models (hexbin plots, violin distributions, quadrant charts) to map cuisine consistency and price-to-rating value across major Indian metropolitan markets[cite: 2].
+### 💻 Programming
+- C
+- Java
+- Python
+- HTML
 
-#### 🎮 Terminal 5x5 Number Sliding Puzzle (C)
-An interactive 24-puzzle console game developed in C emphasizing memory layout, pointer operations, and control flow[cite: 4].
-* Implemented 2D array transformations to manage tile sliding mechanics, empty-space swaps, and boundary checks[cite: 4].
-* Created dynamic difficulty presets (Easy, Medium, Hard), move validation logic, and a live step counter[cite: 4].
-* Handled terminal updates and user input validation using native standard libraries[cite: 4].
+### 🗄️ Databases
+- SQL
+- PostgreSQL
 
-#### 🚨 Digital Burglar Alarm System (Logic Design)
-A security alarm circuit designed and simulated using combinational and sequential digital logic[cite: 3].
-* Aggregated multiple perimeter sensor lines (door/window switches) using an OR gate network[cite: 3].
-* Integrated an enable/arm mechanism via AND gating to ensure the alarm triggers only when armed[cite: 3].
-* Implemented an SR Flip-Flop memory latch to hold the alarm in an active state once tripped until manually reset[cite: 3].
+### 🧠 Core Computer Science
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- RDBMS
+- Procedural Programming
+- Digital Logic
 
-#### 📈 JSW Steel Corporate & Financial Performance Study
-A business research report evaluating corporate financial statements, capital expenditure, and operational growth[cite: 6].
-* Assessed consolidated P&L metrics (₹1,75,000 Cr revenue, ₹28,000 Cr EBITDA) and balance sheet leverage[cite: 6].
-* Analyzed operational cash flow trends in relation to ongoing brownfield expansions and sustainability investments[cite: 6].
+### 📊 Data Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+
+### 🔧 Tools & Environments
+- Git & GitHub
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- Anaconda
+- Dev-C++
 
 ---
 
-### 🎯 Currently Exploring & Aiming For
-* **Deepening Java & Databases:** Connecting Java backend workflows with relational databases via SQL and PostgreSQL.
-* **Interactive Data Apps:** Building lightweight web dashboards and deploying analytical models using Streamlit and Python.
-* **Industry Readiness:** Looking for internship and junior developer opportunities where I can apply my programming, data wrangling, and software development skills to real-world products.
+## 📌 Featured Projects
 
-📫 **Get in touch:** [LinkedIn Profile](https://www.linkedin.com/in/pradwin-n-p-672b2b302/)
+### 📊 Zomato Market & Restaurant Analytics
+
+Exploratory data analytics of **20,000+ Zomato restaurant records** using Python, focusing on data preprocessing, visualization, restaurant characteristics, ratings, pricing, cuisines, and city-level insights.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
+🔗 [View Project on GitHub](https://github.com/Pradwin-7/zomato-market-restaurant-analytics)
+
+---
+
+### 🎮 5×5 Number Sliding Puzzle
+
+A terminal-based **5×5 number sliding puzzle** developed in C with multiple difficulty levels, keyboard controls, move tracking, boundary checking, and automatic completion detection.
+
+**Tech:** C, 2D Arrays, Loops, Switch-Case, Input Handling
+
+🔗 [View Project on GitHub](https://github.com/Pradwin-7/5x5-number-sliding-puzzle)
+
+---
+
+### 🚨 Digital Burglar Alarm System
+
+A digital logic project demonstrating the design and implementation of a burglar alarm system using digital logic concepts.
+
+**Tech:** Digital Logic, Logic Gates, Boolean Logic
+
+🔗 *Repository coming soon*
+
+---
+
+## 🌱 Currently Learning
+
+- Java & Object-Oriented Programming
+- Data Structures & Algorithms
+- SQL & Database Management
+- Operating Systems
+- Software Engineering
+- Data Analytics
+
+---
+
+## 🎯 Goals
+
+- Build practical software projects
+- Strengthen programming and problem-solving skills
+- Develop strong foundations in databases and computer science
+- Explore Data Analytics and AI/ML
+- Build a strong technical portfolio
+
+---
+
+## 📫 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/pradwin-n-p-672b2b302/)
+
+🐙 [GitHub](https://github.com/Pradwin-7)
+
+---
+
+## 🚀 What's Next?
+
+Still learning, building, and occasionally breaking things along the way 😅
+
+Trying new things, working on projects, and getting better one step at a time.
+
+More to come... 👀
