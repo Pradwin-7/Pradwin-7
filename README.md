@@ -103,7 +103,6 @@ A digital logic project demonstrating the design and implementation of a burglar
 
 💼 [LinkedIn](https://www.linkedin.com/in/pradwin-n-p-672b2b302/)
 
-🐙 [GitHub](https://github.com/Pradwin-7)
 
 ---
 
